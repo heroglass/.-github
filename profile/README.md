@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+![Intro](https://github.com/heroglass/.github/assets/52617204/2f4e6c7c-919d-4b89-bc33-fb9e1f43032f)
